@@ -1,0 +1,50 @@
+*{
+  scroll-behavior: smooth;
+  box-sizing: border-box;
+  
+  }.company-Name{
+  text-shadow: 1.5px 1.5px;
+  color: darkgreen;
+  text-align: center;
+  
+}
+.address{
+  font-size: 1rem;
+  text-align: center;
+  color:tomato;
+}
+#nav-section{
+  background :black;
+}
+ul{
+  padding: 20px;
+  background :grey;
+  text-align: center;
+  
+}
+ul li{
+  padding: 12px;
+  
+}
+ul li  a{
+  text-decoration: none;
+  font-size: 1.1rem;
+  padding: 30px;
+  text-transform: uppercase;
+  color: white;
+  outline: 3px black;
+  text-shadow: 1.4px 1.4px ;
+  
+  
+}
+#title{
+  border-bottom: solid 4px green;
+  font-size: 18px;
+  
+  
+}
+
+body{
+  background: silver;
+  box-sizing:border-box;
+}
